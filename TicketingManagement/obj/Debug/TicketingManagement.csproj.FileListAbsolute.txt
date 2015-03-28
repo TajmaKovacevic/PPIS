@@ -1,0 +1,9 @@
+D:\Temp\mkozar\TicketingManagement\TicketingManagement\bin\TicketingManagement.dll
+D:\Temp\mkozar\TicketingManagement\TicketingManagement\bin\TicketingManagement.pdb
+D:\Temp\mkozar\TicketingManagement\TicketingManagement\obj\Debug\TicketingManagement.dll
+D:\Temp\mkozar\TicketingManagement\TicketingManagement\obj\Debug\TicketingManagement.pdb
+C:\Users\Tajma\Desktop\TicketingManagement\TicketingManagement\bin\TicketingManagement.dll
+C:\Users\Tajma\Desktop\TicketingManagement\TicketingManagement\bin\TicketingManagement.pdb
+C:\Users\Tajma\Desktop\TicketingManagement\TicketingManagement\obj\Debug\TicketingManagement.csprojResolveAssemblyReference.cache
+C:\Users\Tajma\Desktop\TicketingManagement\TicketingManagement\obj\Debug\TicketingManagement.dll
+C:\Users\Tajma\Desktop\TicketingManagement\TicketingManagement\obj\Debug\TicketingManagement.pdb
